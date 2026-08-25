@@ -1,0 +1,14 @@
+tf-gpu/
+venv/
+env/
+.venv/
+
+__pycache__/
+*.pyc
+
+.ipynb_checkpoints/
+
+.env
+
+runs/
+logs/
